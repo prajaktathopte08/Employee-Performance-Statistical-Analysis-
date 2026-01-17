@@ -1,4 +1,4 @@
-# Employee-Performance-Statistical-Analysis
+# Employee-Performance-Analysis
 
 ## 📌 Project Overview
 
