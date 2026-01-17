@@ -67,18 +67,12 @@ The dataset contains only numerical values, making it suitable for NumPy-based a
 * Correlation between Experience and Salary
 * Correlation between Stress Level and Job Satisfaction
 
-### 6. Normalization & Outliers
-
-* Z-score normalization
-* Outlier detection using Z-scores
-
 ### 7. Logical Analysis
 
 * Employees earning above average salary
 * High-performing employee analysis
 * Attrition risk identification
 
----
 
 ## 📈 Key Insights
 
@@ -88,7 +82,6 @@ The dataset contains only numerical values, making it suitable for NumPy-based a
 * Training has a positive impact on performance
 * A small number of employees earn significantly higher salaries
 
----
 
 ## ✅ Conclusion
 
